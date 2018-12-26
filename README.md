@@ -7,9 +7,9 @@ This code will change the color of the bash prompt in your terminal. If the comm
 1) Copy the code from the .bashrc file
 2) Add the code to your .bashrc file
 ```
-vim ~/.bashrc
+$ vim ~/.bashrc
 ```
 3) Run your .bashrc to start using it
 ```
-bash
+$ bash
 ```
